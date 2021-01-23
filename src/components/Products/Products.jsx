@@ -2,7 +2,7 @@ import React from 'react';
 import { Grid } from '@material-ui/core';
 import Product from './Product/Product'
 
-import image from '../../../src/images/apple.png'
+import image from '../../assets/apple.png'
 
 const products = [
   {id: 1, name: 'Shoes', description: 'Running shoes.', price: '$5', image: image },
