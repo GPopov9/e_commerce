@@ -1,5 +1,5 @@
 start-webpack:
-	webpack serv --mode development --hot
+	webpack serve --mode development --hot
 
 build-webpack:
 	webpack --mode production
